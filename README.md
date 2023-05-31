@@ -31,8 +31,11 @@ Execute com.test.app.AppApplication in the project
 	
 ### Browser API Rest
 Run de project and open your browser at the following URL
-(http://127.0.0.1:5000/product/{idProduct}/similar
+
+http://127.0.0.1:5000/product/{idProduct}/similar
 
 ## Mock service
+
 http://localhost:3001/product/{idProduct}
+
 http://localhost:3001/product/{idProduct}/similarids
